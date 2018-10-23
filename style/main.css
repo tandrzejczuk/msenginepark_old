@@ -1,0 +1,8 @@
+/* Header */
+.header {
+    height: 80px;
+    background-color: #eeeeee;
+}
+.logo {
+    float: left;
+}
